@@ -8,10 +8,8 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
-      title: 'Next.js Blog Starter Kit',
-      description: 'Clone and deploy your own Next.js portfolio in minutes.',
-      image:
-        'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+      title: 'mfrata',
+      description: 'Personal page of Matheus frata'
     }
 
     return (
@@ -22,16 +20,15 @@ class MyDocument extends Document {
           <meta property="og:site_name" content={meta.title} />
           <meta property="og:description" content={meta.description} />
           <meta property="og:title" content={meta.title} />
-          <meta property="og:image" content={meta.image} />
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content="@yourname" />
           <meta name="twitter:title" content={meta.title} />
           <meta name="twitter:description" content={meta.description} />
-          <meta name="twitter:image" content={meta.image} />
         </Head>
         <body>
           <Main />
           <NextScript />
+          <script data-goatcounter="https://mfrata.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
         </body>
       </Html>
     )
