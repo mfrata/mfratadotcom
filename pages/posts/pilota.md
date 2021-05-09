@@ -2,8 +2,9 @@
 title: Pilota
 date: "2020-06-13"
 tag: italian
-author: mfrata
 ---
+
+# Pilota
 
 Questo è il mio primo tentativo di scrivere in italiano. Molte poliglotti
 parlano che questa è uno dei migliori metodi di sviluppare "il modo scritto"
@@ -18,7 +19,14 @@ per me, che sto studiando italiano da cinque mesi, questo sembra essere il
 prossimo passo per mettere in pratica tutti il vocabolario che vengo
 costruendo. Quindi, la decisione di cominciare questa series di blog posts!
 
-![Il mio metodo di costruire vocabolario](/public/images/pilota-0.png)
+import Image from 'next/image'
+
+<Image
+  src="/images/pilota-0.png"
+  alt="Il mio metodo di costruire vocabolario"
+  priority
+  className="next-image"
+/>
 > Il mio metodo di costruire vocabolario
 
 Una domanda che può avere sorto sulla testa: ma perchè l'italiano? Allora,
@@ -34,8 +42,13 @@ bicchieri di vino e così via. Dunque, ho una parte italiana che non avevo
 esplorato mai. E non voglio posticiparne più. Se andrò a raggiungere questa
 cittadinanza, devo almeno parlare la lingua, certo?!
 
-![Un pomeriggio di domenica con la famiglia (nonna a
-sinistra)](/assets/images/pilota-1.png)
+<Image
+  src="/images/pilota-1.png"
+  alt="Un pomeriggio di domenica con la famiglia (nonna a
+sinistra)"
+  priority
+  className="next-image"
+/>
 > Un pomeriggio di domenica con la famiglia (nonna a sinistra)
 
 Come ho detto, sto imparando ancora, quindi sbaglierò tantissimi. Ti chiedo che
