@@ -24,6 +24,7 @@ import Image from 'next/image'
 <Image
   src="/images/pilota-0.png"
   alt="Il mio metodo di costruire vocabolario"
+  width=100%
   priority
   className="next-image"
 />
@@ -46,6 +47,7 @@ cittadinanza, devo almeno parlare la lingua, certo?!
   src="/images/pilota-1.png"
   alt="Un pomeriggio di domenica con la famiglia (nonna a
 sinistra)"
+  width=50%
   priority
   className="next-image"
 />
