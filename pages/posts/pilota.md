@@ -1,5 +1,6 @@
 ---
 title: Pilota
+description: Un tentativo di scrivere in italiano
 date: "2020-06-13"
 tag: italian
 ---
@@ -19,12 +20,11 @@ per me, che sto studiando italiano da cinque mesi, questo sembra essere il
 prossimo passo per mettere in pratica tutti il vocabolario che vengo
 costruendo. Quindi, la decisione di cominciare questa series di blog posts!
 
-import Image from 'next/image'
-
 <Image
   src="/images/pilota-0.png"
-  alt="Il mio metodo di costruire vocabolario"
-  width=100%
+  alt="Un pomeriggio di domenica con la famiglia (nonna a
+sinistra)"
+  width={2000}
   priority
   className="next-image"
 />
@@ -47,7 +47,7 @@ cittadinanza, devo almeno parlare la lingua, certo?!
   src="/images/pilota-1.png"
   alt="Un pomeriggio di domenica con la famiglia (nonna a
 sinistra)"
-  width=50%
+  width={2000}
   priority
   className="next-image"
 />
