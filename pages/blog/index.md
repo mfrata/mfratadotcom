@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Posts
+title: Blog
 ---
 
-# Posts
+# Blog
