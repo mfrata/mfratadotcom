@@ -1,0 +1,42 @@
+baseurl = "https://mfrata.com"
+DefaultContentLanguage = "en"
+title = "mfrata"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  homeTitle = "Matheus Frata"
+  mainSections = ["blog"]
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = false
+  hideAuthor = true
+
+[Author]
+  name = "Matheus Frata"
+  website = "mfrata.com"
+  github = "mfrata"
+  twitter = "msfrata"
+  linkedin = "matheus-frata"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2

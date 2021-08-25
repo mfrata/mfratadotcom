@@ -1,11 +1,9 @@
 ---
 title: Day with intention
-date: "2021-05-29"
+date: 2021-05-29
 description: Have you ever encountered yourself dealing with two or more contexts on your work at the same time? You were coding ...
-tag: productivity, dev
+tags: [productivity, dev]
 ---
-
-# Day with intention
 
 Have you ever encountered yourself dealing with two or more contexts on your
 work at the same time? You were coding the solution from problem A. Your peer
@@ -87,16 +85,8 @@ Dotted pages that help me on writing straight lines without the need for a
 ruler. Somewhat thick page (80g/m²), since I'm a heavy writer. And, a mechanical
 pencil with 0.9mm lead. Again - thick - due to the force I put on writing.
 
-import Image from 'next/image'
 
-<Image
-  src="/images/day-with-intention-0.png"
-  alt="My notebook and mechanical pencil."
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
+![My notebook and mechanical pencil](/images/day-with-intention-0.png)
 
 ### Weeks
 
@@ -122,14 +112,8 @@ You decide the granularity of it. On top of that, I recommend having an extra
 project to set tasks that don't fit into the previous ones. Usually, I put here
 family stuff and other non-recurring obligations of the house.
 
-<Image
-  src="/images/day-with-intention-1.png"
-  alt="How to list projects and goals."
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
+
+{{< figure src="/images/day-with-intention-1.png" caption="How to list projects and goals" >}}
 
 
 ### Days
@@ -145,14 +129,7 @@ to you do whatever you want (or need) without planning it. For me around twelve
 hours is my max. Therefore, I plan from right after breakfast up to the last or
 event after work. That's usually from 8 am to 8 pm.
 
-<Image
-  src="/images/day-with-intention-2.jpg"
-  alt="How to start the daily plan."
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
+{{< figure src="/images/day-with-intention-2.jpg" caption="How to start the daily plan" >}}
 
 Afterward, you draw the blocks reflecting your events and tasks that you need
 to do on that day. I start with the meetings and events that I need to attend.
@@ -181,14 +158,7 @@ between two events or tasks there will be transitions, either physical or
 mental. So, between two meetings, set a 10 minute time window as a break. When
 you have to go somewhere, include the commute time on the task block!
 
-<Image
-  src="/images/day-with-intention-3.jpg"
-  alt="How to fill the daily plan with your tasks."
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
+{{< figure src="/images/day-with-intention-3.jpg" caption="How to fill the daily plan with your tasks" >}}
 
 As the day progresses you will notice that we are really bad at planning!
 Certainly, you will need to reschedule some tasks or events. That's why we drew
@@ -233,27 +203,13 @@ next week, and your Mom's birthday on Wednesday.
 On Monday, June 24th, at 8 am, you sit down to do your weekly planning. Ten
 minutes after you come with the following:
 
-<Image
-  src="/images/day-with-intention-4.jpg"
-  alt="An example of weekly plan."
-  height={680}
-  width={480}
-  priority
-  className="next-image"
-/>
+{{< figure src="/images/day-with-intention-4.jpg" caption="An example of weekly plan" >}}
 
 Right after that, you do the planning for your Monday. You have to attend two
 meetings, a run session at night and singing practice. You come with the
 following plan for your Monday:
 
-<Image
-  src="/images/day-with-intention-5.jpg"
-  alt="An example of daily plan."
-  height={720}
-  width={480}
-  priority
-  className="next-image"
-/>
+{{< figure src="/images/day-with-intention-5.jpg" caption="An example of daily plan" >}}
 
 Right after planning, you do some email and Slack to get any updates. And then,
 you enter the next big block: code the tests for the feature. You set aside the
@@ -282,14 +238,7 @@ attending meeting 2. Since meeting 1 was long and meeting 2 is important, you
 decided to keep that break and attend the next meeting. So you postponed a bit
 your run session and the following tasks. You come with the updated daily plan:
 
-<Image
-  src="/images/day-with-intention-6.jpg"
-  alt="An example of an updated daily plan."
-  height={720}
-  width={480}
-  priority
-  className="next-image"
-/>
+{{< figure src="/images/day-with-intention-6.jpg" caption="An example of an updated daily plan" >}}
 
 As the days progress, you want to mark the things that are being accomplished.
 For instance, on Wednesday 26th, you check that you had a fun chat with Adam

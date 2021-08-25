@@ -1,11 +1,9 @@
 ---
 title: Pilota
-date: "2020-06-13"
+date: 2020-06-13
 description: Questo è il mio primo tentativo di scrivere in italiano. Molte poliglotti parlano che questa è uno dei migliori metodi di sviluppare
-tag: italian
+tags: [italian]
 ---
-
-# Pilota
 
 Questo è il mio primo tentativo di scrivere in italiano. Molte poliglotti
 parlano che questa è uno dei migliori metodi di sviluppare "il modo scritto"
@@ -18,19 +16,9 @@ creare i paragrafi e i paragrafi per creare un messaggio oppure un'idea. Di
 conseguenza, credo che scrivere aiuta ad imparare una nuova lingua. Soprattutto
 per me, che sto studiando italiano da cinque mesi, questo sembra essere il
 prossimo passo per mettere in pratica tutti il vocabolario che vengo
-costruendo. Quindi, la decisione di cominciare questa series di blog posts!
+costruendo. Quindi, la decisione di cominciare a scrivere in italiano!
 
-import Image from 'next/image'
-
-<Image
-  src="/images/pilota-0.png"
-  alt="Il mio metodo di costruire vocabolario"
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
-> Il mio metodo di costruire vocabolario
+{{< figure src="/images/pilota-0.png" caption="Il mio metodo di costruire vocabolario" >}}
 
 Una domanda che può avere sorto sulla testa: ma perchè l'italiano? Allora,
 questa è una storia lunghissima e per ora posso dirti: riconoscimento della
@@ -45,16 +33,7 @@ bicchieri di vino e così via. Dunque, ho una parte italiana che non avevo
 esplorato mai. E non voglio posticiparne più. Se andrò a raggiungere questa
 cittadinanza, devo almeno parlare la lingua, certo?!
 
-<Image
-  src="/images/pilota-1.png"
-  alt="Un pomeriggio di domenica con la famiglia (nonna a
-sinistra)"
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
-> Un pomeriggio di domenica con la famiglia (nonna a sinistra)
+{{< figure src="/images/pilota-1.png" caption="Un pomeriggio di domenica con la famiglia, nonna a sinistra" >}}
 
 Come ho detto, sto imparando ancora, quindi sbaglierò tantissimi. Ti chiedo che
 vacci piano con me =).  Accetto correzioni, in realtà ti, prego per loro! In
