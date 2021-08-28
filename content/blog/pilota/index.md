@@ -18,7 +18,7 @@ per me, che sto studiando italiano da cinque mesi, questo sembra essere il
 prossimo passo per mettere in pratica tutti il vocabolario che vengo
 costruendo. Quindi, la decisione di cominciare a scrivere in italiano!
 
-{{< figure src="/images/pilota-0.png" caption="Il mio metodo di costruire vocabolario" >}}
+![](/blog/pilota/il-mio-metodo-di-construire-vocabolario.jpg)
 
 Una domanda che può avere sorto sulla testa: ma perchè l'italiano? Allora,
 questa è una storia lunghissima e per ora posso dirti: riconoscimento della
@@ -33,7 +33,7 @@ bicchieri di vino e così via. Dunque, ho una parte italiana che non avevo
 esplorato mai. E non voglio posticiparne più. Se andrò a raggiungere questa
 cittadinanza, devo almeno parlare la lingua, certo?!
 
-{{< figure src="/images/pilota-1.png" caption="Un pomeriggio di domenica con la famiglia, nonna a sinistra" >}}
+![](/blog/pilota/un-pomeriggio-di-domenica-con-la-famiglia.jpg)
 
 Come ho detto, sto imparando ancora, quindi sbaglierò tantissimi. Ti chiedo che
 vacci piano con me =).  Accetto correzioni, in realtà ti, prego per loro! In
