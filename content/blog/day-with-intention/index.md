@@ -86,7 +86,7 @@ ruler. Somewhat thick page (80g/m²), since I'm a heavy writer. And, a mechanica
 pencil with 0.9mm lead. Again - thick - due to the force I put on writing.
 
 
-![My notebook and mechanical pencil](/images/day-with-intention-0.png)
+![](/blog/day-with-intention/my-notebook-and-mechanical-pencil.png)
 
 ### Weeks
 
@@ -113,8 +113,7 @@ project to set tasks that don't fit into the previous ones. Usually, I put here
 family stuff and other non-recurring obligations of the house.
 
 
-{{< figure src="/images/day-with-intention-1.png" caption="How to list projects and goals" >}}
-
+![](/blog/day-with-intention/how-to-list-projects-and-goals.png)
 
 ### Days
 
@@ -129,7 +128,7 @@ to you do whatever you want (or need) without planning it. For me around twelve
 hours is my max. Therefore, I plan from right after breakfast up to the last or
 event after work. That's usually from 8 am to 8 pm.
 
-{{< figure src="/images/day-with-intention-2.jpg" caption="How to start the daily plan" >}}
+![](/blog/day-with-intention/how-to-start-the-daily-plan.jpg)
 
 Afterward, you draw the blocks reflecting your events and tasks that you need
 to do on that day. I start with the meetings and events that I need to attend.
@@ -158,7 +157,7 @@ between two events or tasks there will be transitions, either physical or
 mental. So, between two meetings, set a 10 minute time window as a break. When
 you have to go somewhere, include the commute time on the task block!
 
-{{< figure src="/images/day-with-intention-3.jpg" caption="How to fill the daily plan with your tasks" >}}
+![](/blog/day-with-intention/how-to-fill-the-daily-plan-with-your-tasks.jpg)
 
 As the day progresses you will notice that we are really bad at planning!
 Certainly, you will need to reschedule some tasks or events. That's why we drew
@@ -203,13 +202,13 @@ next week, and your Mom's birthday on Wednesday.
 On Monday, June 24th, at 8 am, you sit down to do your weekly planning. Ten
 minutes after you come with the following:
 
-{{< figure src="/images/day-with-intention-4.jpg" caption="An example of weekly plan" >}}
+![](/blog/day-with-intention/an-example-of-weekly-plan.jpg)
 
 Right after that, you do the planning for your Monday. You have to attend two
 meetings, a run session at night and singing practice. You come with the
 following plan for your Monday:
 
-{{< figure src="/images/day-with-intention-5.jpg" caption="An example of daily plan" >}}
+![](/blog/day-with-intention/an-example-of-daily-plan.jpg)
 
 Right after planning, you do some email and Slack to get any updates. And then,
 you enter the next big block: code the tests for the feature. You set aside the
@@ -238,7 +237,7 @@ attending meeting 2. Since meeting 1 was long and meeting 2 is important, you
 decided to keep that break and attend the next meeting. So you postponed a bit
 your run session and the following tasks. You come with the updated daily plan:
 
-{{< figure src="/images/day-with-intention-6.jpg" caption="An example of an updated daily plan" >}}
+![](/blog/day-with-intention/an-example-of-an-updated-daily-plan.jpg)
 
 As the days progress, you want to mark the things that are being accomplished.
 For instance, on Wednesday 26th, you check that you had a fun chat with Adam
